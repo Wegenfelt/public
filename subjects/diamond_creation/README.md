@@ -2,7 +2,7 @@
 
 ### Instructions
 
-Build the **function** `make_diamond` which takes a letter as an input, and returns a diamond.
+Build the **function** `get_diamond` which takes a letter as an input, and returns a diamond.
 
 Rules:
 

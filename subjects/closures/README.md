@@ -7,7 +7,7 @@ Using closures and iterators create a **function**, that returns the first 50 ev
 ### Expected Functions
 
 ```rust
-fn first_fifty_even_square() -> Vec<i32> {
+pub fn first_fifty_even_square() -> Vec<i32> {
 
 }
 ```
